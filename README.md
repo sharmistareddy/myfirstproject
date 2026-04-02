@@ -1,3 +1,9 @@
-# My First GitHub Project
+# My First Python Project
 
-This is my first project.
+## Features
+- Takes user input
+- Prints greeting
+- Performs addition
+
+## How to run
+python3 app.py
